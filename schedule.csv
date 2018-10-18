@@ -1,0 +1,41 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Day,Event,Email,Full Name,Title of your Mock AMS talk.,Start,Stop,Readable Start,Readable Stop
+0,0,0,0,0,1,remarks,,,,2018-06-26 08:45:00,2018-06-26 08:50:00,8:45am,8:50am
+1,1,1,1,1,1,talk,mersmann@uga.edu,Clay Mersmann,A Bivariate Spline Analysis of the TEM mode of a Parallel Plate Waveguide,2018-06-26 08:50:00,2018-06-26 09:10:00,8:50am,9:10am
+2,2,2,2,2,1,talk,xu@math.uga.edu,Yidong Xu,Duality in Optimization,2018-06-26 09:15:00,2018-06-26 09:35:00,9:15am,9:35am
+3,3,3,3,3,1,talk,eric@math.uga.edu,Eric Perkerson,The Affine Low-Rank Matrix Completion Algorithm,2018-06-26 09:40:00,2018-06-26 10:00:00,9:40am,10:00am
+4,4,4,4,4,1,talk,abm41450@uga.edu,Andrew Maurer,Debiasing Word Embeddings,2018-06-26 10:05:00,2018-06-26 10:25:00,10:05am,10:25am
+5,5,5,5,5,1,coffee,,,,2018-06-26 10:25:00,2018-06-26 10:50:00,10:25am,10:50am
+6,6,6,6,6,1,talk,camay1224@uga.edu,Catrina May,Thinking Inside the (Distinct or Identical) Boxes: A Friendly Introduction to Object Distributions and Stirling Numbers of the Second Kind,2018-06-26 10:50:00,2018-06-26 11:10:00,10:50am,11:10am
+7,7,7,7,7,1,talk,jbd891@uga.edu,Joseph Dorta,Introduction to Grassmannians ,2018-06-26 11:15:00,2018-06-26 11:35:00,11:15am,11:35am
+8,8,8,8,8,1,talk,kja55077@uga.edu,Kenneth Allen,A Mathematical Introduction to Quantum Mechanics,2018-06-26 11:40:00,2018-06-26 12:00:00,11:40am,12:00pm
+9,9,9,9,9,1,talk,john.wagner@uga.edu,Jack Wagner,Tannakian Reconstruction of Finite Groups,2018-06-26 12:05:00,2018-06-26 12:25:00,12:05pm,12:25pm
+10,10,10,10,10,1,lunch,,,,2018-06-26 12:25:00,2018-06-26 13:40:00,12:25pm,1:40pm
+11,11,11,11,11,1,talk,sb23752@uga.edu,Swapnanil Banerjee,About finite groups acting freely on $S^{2k-1}$,2018-06-26 13:40:00,2018-06-26 14:00:00,1:40pm,2:00pm
+12,12,12,12,12,1,talk,jmjoseph22@gmail.com,Jason Joseph,"Ribbon genus, Virtual graphs, and Wirtinger deficiency",2018-06-26 14:05:00,2018-06-26 14:25:00,2:05pm,2:25pm
+13,13,13,13,13,1,talk,wolsen@uga.edu,William Olsen,Four-manifold invariants from broken Lefschetz fibrations and trisections,2018-06-26 14:30:00,2018-06-26 14:50:00,2:30pm,2:50pm
+14,14,14,14,14,1,talk,seblackwell@uga.edu,Sarah Blackwell,Differential Graded Algebras of Legendrian Knots,2018-06-26 14:55:00,2018-06-26 15:15:00,2:55pm,3:15pm
+15,15,15,15,15,1,coffee,,,,2018-06-26 15:15:00,2018-06-26 15:40:00,3:15pm,3:40pm
+16,16,16,16,16,1,talk,warrentm@uga.edu,Terrin Warren,What makes a metric super? ,2018-06-26 15:40:00,2018-06-26 16:00:00,3:40pm,4:00pm
+17,17,17,17,17,1,talk,schreyer@uga.edu,Erik Schreyer,Totally geodesic subspaces of the space of polygons in \(\mathbb{R}^3\),2018-06-26 16:05:00,2018-06-26 16:25:00,4:05pm,4:25pm
+18,18,18,18,18,1,talk,frederick.saia@uga.edu,Freddy Saia,An Axiomatic Approach to Homology Theory In Algebraic Topology,2018-06-26 16:30:00,2018-06-26 16:50:00,4:30pm,4:50pm
+19,19,19,19,19,1,talk,ernest.guico@gmail.com,Ernest Guico,Computing the Fundamental Group of the Circle Using Van Kampen's Theorem,2018-06-26 16:55:00,2018-06-26 17:15:00,4:55pm,5:15pm
+20,20,20,20,20,2,talk,ldwatson@uga.edu,Lori Watson,Hasse Principle Violations of Quadratic Twists of Hyperelliptic Curves,2018-06-27 08:30:00,2018-06-27 08:50:00,8:30am,8:50am
+21,21,21,21,21,2,talk,makoto.suwama@uga.edu,Makoto Suwama,Iwasawa Theory of Elliptic Curves,2018-06-27 08:55:00,2018-06-27 09:15:00,8:55am,9:15am
+22,22,22,22,22,2,talk,kpa43420@uga.edu,Komal Agrawal,Collatz Conjecture ,2018-06-27 09:20:00,2018-06-27 09:40:00,9:20am,9:40am
+23,23,23,23,23,2,talk,pwoolfitt@uga.edu,Peter Woolfitt,First Digits of $2^n$,2018-06-27 09:45:00,2018-06-27 10:05:00,9:45am,10:05am
+24,24,24,24,24,2,coffee,,,,2018-06-27 10:05:00,2018-06-27 10:30:00,10:05am,10:30am
+25,25,25,25,25,2,talk,kubra.benli25@uga.edu,Kubra Benli,Small prime power residues,2018-06-27 10:30:00,2018-06-27 10:50:00,10:30am,10:50am
+26,26,26,26,26,2,talk,jl74942@uga.edu,Jinsil Lee,Existence of positive solution for fractional $p$ laplacian equation,2018-06-27 10:55:00,2018-06-27 11:15:00,10:55am,11:15am
+27,27,27,27,27,2,talk,noah.lebowitzl25@uga.edu,Noah Lebowitz-Lockard,Irreducible quadratic polynomials and Euler's function,2018-06-27 11:20:00,2018-06-27 11:40:00,11:20am,11:40am
+28,28,28,28,28,2,talk,bte21591@uga.edu,Amelia Ernst,Galois theory and Covering Spaces,2018-06-27 11:45:00,2018-06-27 12:05:00,11:45am,12:05pm
+29,29,29,29,29,2,talk,nolan.schock@uga.edu,Nolan Schock,Geometry and Galois Theory,2018-06-27 12:10:00,2018-06-27 12:30:00,12:10pm,12:30pm
+30,30,30,30,30,2,lunch,,,,2018-06-27 12:30:00,2018-06-27 13:45:00,12:30pm,1:45pm
+31,31,31,31,31,2,talk,laj60278@uga.edu,Andy Jenkins,Synchrony and bistability in a Boolean network model of the L-arabinose operon,2018-06-27 13:45:00,2018-06-27 14:05:00,1:45pm,2:05pm
+32,32,32,32,32,2,talk,justmatt@uga.edu,Matt Just,Subsequence Pattern Packing in Permutations and Compositions,2018-06-27 14:10:00,2018-06-27 14:30:00,2:10pm,2:30pm
+33,33,33,33,33,2,talk,ziqing@uga.edu,Ziqing Xiang,Good subsets of the unit circle,2018-06-27 14:35:00,2018-06-27 14:55:00,2:35pm,2:55pm
+34,34,34,34,34,2,talk,kirsten.morris25@uga.edu,Kirsten Morris,Fractional Coloring,2018-06-27 15:00:00,2018-06-27 15:20:00,3:00pm,3:20pm
+35,35,35,35,35,2,coffee,,,,2018-06-27 15:20:00,2018-06-27 15:45:00,3:20pm,3:45pm
+36,36,36,36,36,2,talk,dmg30956@uga.edu,David Galban,Ultrafilters and Arrow's Impossibility Theorem,2018-06-27 15:45:00,2018-06-27 16:05:00,3:45pm,4:05pm
+37,37,37,37,37,2,talk,alxjames@uga.edu,Alex Newman,Sudoku Symmetry Group,2018-06-27 16:10:00,2018-06-27 16:30:00,4:10pm,4:30pm
+38,38,38,38,38,2,talk,bentighe@uga.edu,Benjamin Tighe,"Hodge Theory, Period Maps and Period Domains",2018-06-27 16:35:00,2018-06-27 16:55:00,4:35pm,4:55pm
+39,39,39,39,39,2,talk,xianwu@uga.edu,Xian Wu,An Overview of Compactifying Moduli Spaces,2018-06-27 17:00:00,2018-06-27 17:20:00,5:00pm,5:20pm

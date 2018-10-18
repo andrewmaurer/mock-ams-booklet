@@ -1,0 +1,13 @@
+                  CONFLICTS AND CONSTRAINTS FOR MOCK AMS                  
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                  
+                                                                          
+~~~~~~~~~~~~~~~~~~~~~~ The Following Cannot Attend ~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~ The Following Have Scheduling Constraints ~~~~~~~~~~~~~~
+
+Swapnanil Banerjee, sb23752@uga.edu
+Constraint: I teach Calculus-I everyday from 9:15-10:30, so I'll prefer to be scheduled after 11:00 AM.
+
+
+Clay Mersmann, mersmann@uga.edu
+Constraint: I have to head out of town on the 26th, and will need to give my talk as early as possible on that day in order to make my flight. I have corresponded previously with Dr. Boe and Mr. Mauer about these circumstances.
+
