@@ -22,17 +22,19 @@ The only real input file is `submissions.csv` which holds title, abstracts, cons
 
 To generate the booklet, run the following bash commands using python3
 
-  1. List all conflicts in an easy-to-read text file.
+1. List all conflicts in an easy-to-read text file.
 ```
 python3 conflicts.py >> out/conflicts.txt
 ```
 This should be helpful when making the schedule, which I ended up doing on a coffee table.
-  2. Read the abstracts in from a CSV file and format in LaTeX, pass into PDFLaTeX:
+
+2. Read the abstracts in from a CSV file and format in LaTeX, pass into PDFLaTeX:
 ```
 python3 gen_abstracts.py >>> abstracts.tex
 pdflatex abstracts.tex -output-directory
 ```
-  3. At this point I want to have a shell of schedule file with just the following columns: day, event, email, full name, title. Use `gen_schedule.py` to fill in columns with start times and stop times for every talk. Then use `schedule_to_tex.py` to generate a LaTeX tile which can then be passed into PDFLaTeX.
+
+3. At this point I want to have a shell of schedule file with just the following columns: day, event, email, full name, title. Use `gen_schedule.py` to fill in columns with start times and stop times for every talk. Then use `schedule_to_tex.py` to generate a LaTeX tile which can then be passed into PDFLaTeX.
 ```
 python3 gen_schedule.py
 python3 schedule_to_tex.py >> schedule.tex
