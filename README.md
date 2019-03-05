@@ -9,7 +9,7 @@ Just a collection of python scripts to generate LaTeX files for Mock AMS 2018's 
 python3 gen_abstracts.py > abstracts.tex
 python3 gen_schedule.py > schedule.csv
 python3 schedule_to_tex.py > schedule.tex
-python3 conflicts.py > conflicts.txt
+python3 conflicts.py > out/conflicts.txt
 
 pdflatex -output-directory out abstracts
 pdflatex -output-directory out schedule
@@ -24,7 +24,7 @@ To generate the booklet, run the following bash commands using python3
 
   1. List all conflicts in an easy-to-read text file.
 ```
-python3 conflicts.py >> conflicts.txt
+python3 conflicts.py >> out/conflicts.txt
 ```
 This should be helpful when making the schedule, which I ended up doing on a coffee table.
   2. Read the abstracts in from a CSV file and format in LaTeX, pass into PDFLaTeX:
